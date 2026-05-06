@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mediterranean Colors -->
+    <color name="mediterranean_blue">#003D82</color>
+    <color name="light_mediterranean_blue">#0066CC</color>
+    <color name="sky_blue">#4FB3D9</color>
+
+    <!-- Earth Tones -->
+    <color name="desert_sand">#D4A574</color>
+    <color name="warm_beige">#E8D5B7</color>
+    <color name="terracotta">#C85A54</color>
+    <color name="clay_brown">#8B6F47</color>
+
+    <!-- Accents -->
+    <color name="gold_accent">#D4AF37</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_gray">#333333</color>
+</resources>
