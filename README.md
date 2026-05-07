@@ -35,7 +35,7 @@ Players identify Tunisian heritage landmarks from images and answer multiple-cho
 
 ### Run in Android Studio
 
-1. Open `/home/runner/work/Tunisia-Heritage-Quest/Tunisia-Heritage-Quest`.
+1. Open the project root directory in Android Studio.
 2. Let Gradle sync.
 3. Start an emulator or connect a device.
 4. Run the `app` configuration.
@@ -43,7 +43,7 @@ Players identify Tunisian heritage landmarks from images and answer multiple-cho
 ### Command Line
 
 ```bash
-cd /home/runner/work/Tunisia-Heritage-Quest/Tunisia-Heritage-Quest
+cd <project-root>
 ./gradlew assembleDebug
 ```
 
@@ -54,7 +54,7 @@ Debug APK output:
 ## Testing
 
 ```bash
-cd /home/runner/work/Tunisia-Heritage-Quest/Tunisia-Heritage-Quest
+cd <project-root>
 ./gradlew test
 ```
 
