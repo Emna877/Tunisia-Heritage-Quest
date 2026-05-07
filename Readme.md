@@ -70,14 +70,3 @@ Known issues & notes
 - If you see stale UI after changes, uninstall the app from the emulator/device and reinstall (`adb uninstall com.example.tunisiaheritagequest` then `./gradlew installDebug`).
 - Minor test warning observed during test compilation (non-critical): check the `QuizViewModelTest` source for a redundant instance check if you want to clean the warnings.
 
-Contributing
-------------
-- Add new questions to `QuestionRepository` (follow existing structure: id, imageResId, text, options, correctAnswerIndex, keyFact, difficulty, location).
-- Keep UI-only changes inside `ui/screens` and reusable elements in `ui/components` to maintain separation of concerns.
-
-Contact
--------
-For further enhancements (adaptive icons, additional categories, improved animations), reply here with the desired changes and I will implement them.
-
-Last updated: May 6, 2026
-
